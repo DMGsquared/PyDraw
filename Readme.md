@@ -1,5 +1,5 @@
 # About This
-A package created for the purpose of the generation of random maps/images. Utilizes numpys for image storage and openCV for visualization. Built around a Canvas class that adds functionality for "drawing" to a numpy. 
+A package created for the purpose of the generation of random maps/images. Utilizes numpys for image storage and openCV for visualization. Built around a Canvas class that adds functionality for "drawing" to a numpy. Install using pip install pydrawgen. 
 ## Included modules
 Includes 4 modules: drawHelper, dataGen, pathfinding, and pynputHelper. drawHelper is the main module containing the Canvas class with contain important drawing functions, saving functions, and visualization. dataGen allows for the random generation of canvases utilizing drawHelper. pathfinding implements an a* algorithm for finding an optimal path between a source point and a destination point. pynputHelper includes a few helper functions that allow for an abstracted usage of pynput handling initialization etc. 
 ## Important functions to start
