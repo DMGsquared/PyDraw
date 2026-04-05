@@ -1,9 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import math
-import drawHelper as dh
+import PyDraw.drawHelper as dh
 import random
-import pathfinding as ph
+import PyDraw.pathfinding as ph
 from tqdm import tqdm 
 def checker():
     #for i in range(h)

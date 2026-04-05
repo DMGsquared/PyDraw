@@ -1,10 +1,10 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import math
-import drawHelper as dh
+import PyDraw.drawHelper as dh
 import random
 import heapq
-import dataGen as dg
+import PyDraw.dataGen as dg
 D = 10
 D2 = 14
 class PointNode:
